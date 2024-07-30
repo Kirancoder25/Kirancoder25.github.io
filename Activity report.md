@@ -31,3 +31,8 @@ This is the description of ****STUDENT INDUCTION PROGRAM****
 | 22/07/2024 | Dr.S.B Singh (Auditorium) | Shared some motivational words and experiences of his life |
 | 22/07/2024 | Dr.Pushpinder Singh (Auditorium) | Told his experiences and motivational stories |
 | 22/07/2024 | Sangita Mam (Auditorium) | Told about pollution and experiences of her life |
+23/07/2024 | Peer interaction | Told about college and exams |
+| 23/07/2024 | SS Sir | Integration |
+| 24/07/2024 | Mr.Gauravdeep Singh | Told about three rules of success |
+| 24/07/2024 | Er.Lakhveer Singh | Told about NPTEL |
+| 24/07/2024 | Seniors | told about causmic club |
